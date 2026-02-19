@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pkl
+*.log
+*.csv
+*.xlsx
+.DS_Store
